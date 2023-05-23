@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+        package="com.studio.cryptogame">
+
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logo"
+        android:label="e-ortologio"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication"
+        tools:targetApi="31">
+        <activity
+            android:name="com.studio.cryptogame.Activity_Pagosmies"
+            android:exported="false"
+            android:parentActivityName="com.studio.cryptogame.MainActivity" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_Argies"
+            android:exported="false"
+            android:parentActivityName="com.studio.cryptogame.MainActivity" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_NamesList"
+            android:exported="false"
+            android:parentActivityName="com.studio.cryptogame.MainActivity" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_December"
+            android:parentActivityName="com.studio.cryptogame.Activity_Eortologio" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_November"
+            android:parentActivityName="com.studio.cryptogame.Activity_Eortologio" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_October"
+            android:parentActivityName="com.studio.cryptogame.Activity_Eortologio" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_September"
+            android:parentActivityName="com.studio.cryptogame.Activity_Eortologio" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_August"
+            android:parentActivityName="com.studio.cryptogame.Activity_Eortologio" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_July"
+            android:parentActivityName="com.studio.cryptogame.Activity_Eortologio" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_June"
+            android:parentActivityName="com.studio.cryptogame.Activity_Eortologio" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_May"
+            android:parentActivityName="com.studio.cryptogame.Activity_Eortologio" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_April"
+            android:parentActivityName="com.studio.cryptogame.Activity_Eortologio" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_March"
+            android:parentActivityName="com.studio.cryptogame.Activity_Eortologio" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_February"
+            android:parentActivityName="com.studio.cryptogame.Activity_Eortologio" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_January"
+            android:exported="false"
+            android:parentActivityName="com.studio.cryptogame.Activity_Eortologio" />
+        <activity
+            android:name="com.studio.cryptogame.Activity_Eortologio"
+            android:exported="false"
+            android:parentActivityName="com.studio.cryptogame.MainActivity" />
+        <activity
+            android:name="com.studio.cryptogame.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="com.studio.cryptogame.MemoBroadcast"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

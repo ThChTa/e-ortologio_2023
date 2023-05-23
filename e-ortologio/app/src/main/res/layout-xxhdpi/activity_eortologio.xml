@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".Activity_Eortologio">
+
+
+
+    <Button
+        android:id="@+id/b11"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="0dp"
+        android:backgroundTint="@color/test"
+        android:text="@string/January"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/b12"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="0dp"
+        android:backgroundTint="@color/test"
+        android:text="@string/February"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/b11" />
+
+    <Button
+        android:id="@+id/b13"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="0dp"
+        android:backgroundTint="@color/test"
+        android:text="@string/March"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/b12" />
+
+    <Button
+        android:id="@+id/b14"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="0dp"
+        android:backgroundTint="@color/test"
+        android:text="@string/April"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/b13" />
+
+    <Button
+        android:id="@+id/b15"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="0dp"
+        android:backgroundTint="@color/test"
+        android:text="@string/May"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/b14" />
+
+    <Button
+        android:id="@+id/b16"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="0dp"
+        android:backgroundTint="@color/test"
+        android:text="@string/June"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/b15" />
+
+    <Button
+        android:id="@+id/b17"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="0dp"
+        android:backgroundTint="@color/test"
+        android:text="@string/July"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/b16" />
+
+    <Button
+        android:id="@+id/b18"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="0dp"
+        android:backgroundTint="@color/test"
+        android:text="@string/August"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/b17" />
+
+    <Button
+        android:id="@+id/b19"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="0dp"
+        android:backgroundTint="@color/test"
+        android:text="@string/September"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/b18" />
+
+    <Button
+        android:id="@+id/b110"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="0dp"
+        android:backgroundTint="@color/test"
+        android:text="@string/October"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/b19" />
+
+    <Button
+        android:id="@+id/b111"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="0dp"
+        android:backgroundTint="@color/test"
+        android:text="@string/November"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/b110" />
+
+    <Button
+        android:id="@+id/b112"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="0dp"
+        android:backgroundTint="@color/test"
+        android:text="@string/December"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/b111" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

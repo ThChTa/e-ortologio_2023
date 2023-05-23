@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/custom_button11.xml" value="0.3625" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.229" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/ic_baseline_today_24.xml" value="0.358" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/ic_search.xml" value="0.2505" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-h320dp/activity_eortologio.xml" value="0.12161458333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/activity_eortologio.xml" value="0.2" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/activity_main.xml" value="0.54375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recyclcer_view_row_argies.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_april.xml" value="0.121875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_argies.xml" value="0.121875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_august.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_december.xml" value="0.121875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_february.xml" value="0.1828125" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_january.xml" value="0.87" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_july.xml" value="0.87" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_june.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_march.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_may.xml" value="0.87" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_nameslist.xml" value="0.33" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_november.xml" value="0.121875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_october.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_pagosmies.xml" value="0.121875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-hdpi/recycler_view_row_september.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-large/activity_eortologio.xml" value="0.25" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-large/activity_main.xml" value="0.24505208333333334" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-large/recycler_view_row.xml" value="0.25" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-ldpi/activity_eortologio.xml" value="1.087962962962963" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-small-hdpi/activity_eortologio.xml" value="1.5" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-small/activity_eortologio.xml" value="0.5875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-small/activity_main.xml" value="1.52863436123348" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/activity_eortologio.xml" value="0.3671875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recyclcer_view_row_argies.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_april.xml" value="0.121875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_august.xml" value="0.121875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_december.xml" value="0.121875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_february.xml" value="0.33" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_january.xml" value="0.54375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_july.xml" value="0.54375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_june.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_march.xml" value="0.18359375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_may.xml" value="0.54375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_nameslist.xml" value="0.67" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_november.xml" value="0.3671875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_october.xml" value="0.365625" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_pagosmies.xml" value="0.121875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xhdpi/recycler_view_row_september.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/activity_eortologio.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recyclcer_view_row_argies.xml" value="0.17830045523520485" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_april.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_august.xml" value="0.17830045523520485" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_december.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_february.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_january.xml" value="0.17830045523520485" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_july.xml" value="0.18125" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_june.xml" value="0.17754172989377845" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_march.xml" value="0.18" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_may.xml" value="0.18125" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_nameslist.xml" value="0.33" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_november.xml" value="0.121875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_october.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_pagosmies.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxhdpi/recycler_view_row_september.xml" value="0.121875" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout-xxxhdpi/activity_eortologio.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_april.xml" value="0.3625" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_argies.xml" value="0.3625" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_august.xml" value="0.3484375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_december.xml" value="0.3484375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_eortologio.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_february.xml" value="0.3625" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_january.xml" value="0.25" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_july.xml" value="0.3496143958868895" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_june.xml" value="0.3484375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_main.xml" value="0.28888888888888886" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_march.xml" value="0.3625" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_may.xml" value="0.3625" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_names.xml" value="0.3484375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_names_list.xml" value="0.3235294117647059" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_notification_open.xml" value="0.18125" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_november.xml" value="0.3484375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_october.xml" value="0.32180851063829785" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_pagosmies.xml" value="0.3484375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_september.xml" value="0.3625" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_settings.xml" value="0.35" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/months_eort.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recyclcer_view_row_argies.xml" value="0.67" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row.xml" value="0.16981132075471697" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_april.xml" value="0.54375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_august.xml" value="0.54375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_december.xml" value="0.75" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_february.xml" value="0.67" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_january.xml" value="0.5312977099236641" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_july.xml" value="0.75" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_june.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_march.xml" value="0.54375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_may.xml" value="0.36375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_nameslist.xml" value="0.25" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_november.xml" value="0.54375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_october.xml" value="0.75" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_pagosmies.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/recycler_view_row_september.xml" value="0.54375" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/menu/example_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/Thomas/AndroidStudioProjects/MyApplication3/app/src/main/res/menu/menu_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
